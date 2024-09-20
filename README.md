@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
-
+<br>
 
 
 I am an aspiring backend developer dedicated to creating IT services that truly satisfy users. 
