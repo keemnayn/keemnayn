@@ -33,18 +33,13 @@
 
 ---
 
-
+<!-- 
 ## 💬 Contact
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keemnayn@gmail.com)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@keemnayn)
 
----
-
-<div align="right">  
-📅 2025.08.23  
-김나연  
-</div>
-
+--- 
+-->
 <!---
 keemnayn/keemnayn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
