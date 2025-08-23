@@ -1,6 +1,5 @@
 [![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/keemnayn?theme=dark&posts=3)](https://velog.io/@keemnayn) 
 
-### 👋 Java/Spring 기반으로 꾸준히 학습하고 기록하며 성장 중인 백엔드 개발자입니다.
 <div align="center">
   
 # 📚 TECH STACKS
@@ -42,7 +41,7 @@
 ---
 
 <div align="right">  
-📅 2025.08.10  
+📅 2025.08.23  
 김나연  
 </div>
 
