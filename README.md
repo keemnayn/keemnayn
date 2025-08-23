@@ -1,3 +1,6 @@
+[![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/keemnayn?theme=dark&posts=3)](https://velog.io/@keemnayn) 
+
+### 👋 Java/Spring 기반으로 꾸준히 학습하고 기록하며 성장 중인 백엔드 개발자입니다.
 <div align="center">
   
 # 📚 TECH STACKS
@@ -31,26 +34,6 @@
 
 ---
 
-## 👋 안녕하세요!  
-Java & Spring 기반으로 **안정적이고 확장 가능한 백엔드 서비스**를 만드는 개발자입니다.  
-사용자 경험을 개선하고, 유지보수와 확장성을 고려한 코드를 작성하는 것을 목표로 합니다.
-
----
-
-## 🛠 About Me
-- Java & Spring Boot로 **서비스 로직 설계 및 구현** 경험  
-- MySQL, Redis를 활용한 **데이터 모델링·성능 최적화** 경험  
-- **클린 코드**와 협업 효율성을 고려한 개발 지향  
-- 꾸준한 학습과 실습을 통한 **지속적인 역량 강화**
-
----
-
-## 🚀 Current Work
-- 📌 **독서 모임 플랫폼** 백엔드 리빌딩 프로젝트 진행  
-- 🛠 사용자 경험 개선을 위한 기능 개발 및 리팩토링  
-- ⚡ 테스트 코드 작성 및 API 성능 최적화
-
----
 
 ## 💬 Contact
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keemnayn@gmail.com)
