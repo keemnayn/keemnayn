@@ -1,4 +1,4 @@
-[![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/keemnayn?theme=dark&posts=3&t=1)]
+[![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/keemnayn?theme=dark&posts=3)](https://velog.io/@keemnayn)
 
 <div align="center">
   
