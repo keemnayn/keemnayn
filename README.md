@@ -1,5 +1,5 @@
 [![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/keemnayn?theme=dark&posts=3)](https://velog.io/@keemnayn)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=keemnayn)](https://velog.io/@keemnayn)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=keemnayn?theme=dark&posts=3)](https://velog.io/@keemnayn)
 
 
 <div align="center">
