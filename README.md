@@ -6,11 +6,6 @@
 
 <!-- AI / Data -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge">
-<img src="https://img.shields.io/badge/Embedding-6E6E6E?style=for-the-badge">
-<br>
-  
-<!-- Vector Store -->
 <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge">
 <img src="https://img.shields.io/badge/ChromaDB-5A0FC8?style=for-the-badge">
 <br>
@@ -21,6 +16,10 @@
 <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white">
 <br>
 
+<!-- 프론트엔드 -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<br>
+  
 <!-- 데이터베이스 -->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
