@@ -4,6 +4,17 @@
   
 # 📚 TECH STACKS
 
+<!-- AI / Data -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge">
+<img src="https://img.shields.io/badge/Embedding-6E6E6E?style=for-the-badge">
+<br>
+  
+<!-- Vector Store -->
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge">
+<img src="https://img.shields.io/badge/ChromaDB-5A0FC8?style=for-the-badge">
+<br>
+
 <!-- 백엔드 -->
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -36,7 +47,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keemnayn@gmail.com)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@keemnayn)
 
---- 
 -->
 <!---
 keemnayn/keemnayn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
